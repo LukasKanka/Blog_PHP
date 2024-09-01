@@ -11,6 +11,9 @@
             src="https://kit.fontawesome.com/0a43c6cd1f.js"
     ></script>
     <meta charset="UTF-8">
+    <meta name="description" content="Osobní Blog Lukáše Kaňky">
+    <meta name="keywords" content="Linux, ArchLinux, EndeavourOS,Open Source, OSCloud">
+    <meta name="author" content="Archos & Kankys">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="img/600px-Arch-linux-logo-691350772.png">
     <title>Lukáš Kaňka</title>
