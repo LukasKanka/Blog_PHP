@@ -40,13 +40,7 @@
 
     </nav>
 
-    <!-- Hero section -->
-    <header class="hero-section ">
-        <div class="hero-text-wrapper">
-            <h1 class="hero-text">
-                </h1>
-        </div>
-    </header>
+    
 
     <!-- About Us -->
     <div class="content">
@@ -58,7 +52,7 @@
                         technologie, ve kterých se neustále vzdělávám. Absolvoval jsem kurz
                         testingu a SQL v Acamaru, další kurz byl web developer u společnosti Engeto. Pracoval jsem na pozici testera ve společnosti Uniprog a nyní pracuji ve společnosti Kyndryl na projektu České Spořitelny pro platformu SMART.
                     </p>
-                    <p>Nyní navíc nabízím IT služby,<a href="services/" target="_blank"> klikněte sem</a>.</p>
+                    <p>Nyní navíc nabízím IT služby, pro více informací<a class="linkservices" href="services/" target="_blank"> klikněte sem</a>.</p>
                     
                 </div>
                 <div class="about-img"><img class="about-img content-container"
@@ -66,6 +60,14 @@
                 </div>
             </div>
         </section>
+
+        <!-- Hero section -->
+    <header class="hero-section ">
+        <div class="hero-text-wrapper">
+            <h1 class="hero-text">
+                </h1>
+        </div>
+    </header>
 
         <!-- What We Do -->
         <section class="what-section" id="what-we-do">
@@ -208,7 +210,8 @@
                         class="fa fa-github"></i> GitHub</a></li>
                 <li><a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-ka%C5%88ka-b2a0a1a0/"
                                       target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
-                
+                <li><p class="contact-text">Telefoní číslo: <i class="fas fa-phone"></i> <a href="tel:+725303747"> +420 725 303 747</a></a></p></li>
+                <li><p class="contact-text">E-mail: <i class="fas fa-envelope"></i> <a href="mailto:lukas.kanka@outlook.cz"> Lukáš Kaňka</a></p></li>
 
             </ul>
         </div>
@@ -217,7 +220,7 @@
         </section>
 
         <!-- Where togo -->
-        <section class="where-section" id="where">
+      <!--  <section class="where-section" id="where">
             <div class="where-section-wrapper">
                 <div class="where-text">
 
@@ -228,14 +231,14 @@
                     <div class="where-text-div">
                       
                         <p class="contact-text">Telefoní číslo: <i class="fas fa-phone"></i> <a href="tel:+725303747"> +420 725 303 747</a></a></p>
-                        <p class="contact-text">E-mail: <i class="fas fa-envelope"></i> <a href="mailto:lukas.kanka@outlook.cz"> Lukáš Kaňka</a></p>
+                        <p class="contact-text">E-mail: <i class="fas fa-envelope"></i> <a href="mailto:lukas.kanka@outlook.cz"> Lukáš Kaňka</a></p> -->
 <!--                        <div class="contact-button">-->
 <!--                            <a href="#" class="contact-button-text"></a>-->
 <!--                        </div>-->
-                    </div>
+       <!--              </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 <!--        &lt;!&ndash; Reviews section &ndash;&gt;-->
 <!--        <section class="reviews-section" id="reviews">-->
