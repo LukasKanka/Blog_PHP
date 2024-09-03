@@ -12,8 +12,8 @@
     ></script>
     <meta charset="UTF-8">
     <meta name="description" content="Osobní Blog Lukáše Kaňky">
-    <meta name="keywords" content="Linux, ArchLinux, EndeavourOS,Open Source, OSCloud">
-    <meta name="author" content="Archos & Kankys">
+    <meta name="keywords" content="Linux, ArchLinux, EndeavourOS, Open Source, OSCloud">
+    <meta name="author" content="Kankys">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="img/600px-Arch-linux-logo-691350772.png">
     <title>Lukáš Kaňka</title>
@@ -56,6 +56,7 @@
                         testingu a SQL v Acamaru, další kurz byl web developer u společnosti Engeto. Pracoval jsem na pozici testera ve společnosti Uniprog a nyní pracuji ve společnosti Kyndryl na projektu České Spořitelny pro platformu SMART.
                     </p>
                     <p>Nyní navíc nabízím IT služby, pro více informací<a class="linkservices" href="services/" target="_blank"> klikněte sem</a>.</p>
+                    <p>Má ropozitáře na mé projekty najdete pod tímto <a href="https://git.archoslinux.cz/kankys" target="_blank">odkazem</a></p>
                     
                 </div>
                 <div class="about-img"><img class="about-img content-container"
