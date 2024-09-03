@@ -4,7 +4,7 @@
 
 
 <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script
             crossorigin="anonymous"
@@ -27,8 +27,8 @@
             <li><a href="#about">O mně</a></li>
             <li><a href="#what-we-do">Co dělám </a></li>
             <li><a href="#trips">Stačí si vybrat</a></li>
-<!--            <li><a href="#where">Where To Go</a></li>-->
-<!--            <li><a href="#reviews">Reviews</a></li>-->
+       <li><a href="./project/index.php">Odkazy a mé projekty</a></li>
+ <!--            <li><a href="#reviews">Reviews</a></li>-->
         </ul>
         <img class="icon" src="icons/PngItem_1608357.png" alt="#">
         <?php
@@ -56,7 +56,7 @@
                         testingu a SQL v Acamaru, další kurz byl web developer u společnosti Engeto. Pracoval jsem na pozici testera ve společnosti Uniprog a nyní pracuji ve společnosti Kyndryl na projektu České Spořitelny pro platformu SMART.
                     </p>
                     <p>Nyní navíc nabízím IT služby, pro více informací<a class="linkservices" href="services/" target="_blank"> klikněte sem</a>.</p>
-                    <p>Má ropozitáře na mé projekty najdete pod tímto <a href="https://git.archoslinux.cz/kankys" target="_blank">odkazem</a></p>
+                    <p>Má ropozitáře na mé projekty najdete pod tímto <a class="linkservices" href="https://git.archoslinux.cz/kankys" target="_blank">odkazem</a></p>
                     
                 </div>
                 <div class="about-img"><img class="about-img content-container"
@@ -163,7 +163,8 @@
                 <div class="images-trips-2 images-item "></div>
                 <div class="images-trips-3 images-item "></div>
                 <div class="images-trips-4 images-item "></div>
-                <div class="text-trips images-item" id="trips">Stačí si vybrat</div>
+                <!-- Zde zjistit proč nejde link -->
+                <div class="text-trips images-item" id="trips" ><p><a  href="services/" target="_blank"></a>Stačí si vybrat</p></div>
                 <div class="images-trips-5 images-item "></div>
                 <div class="images-trips-6 images-item "></div>
                 <div class="images-trips-7 images-item "></div>
@@ -316,7 +317,7 @@
 <button id="scrollToTopBtn" onclick="scrollToTop()" title="Go to top">
     <i class="fas fa-arrow-up"></i>
 </button>
-<script src="script.js"></script>
+<script src="./assets/js/script.js"></script>
 
 </body>
 </html>

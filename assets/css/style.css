@@ -83,7 +83,7 @@ nav ul {
 /* Hero - section */
 .hero-section {
   height: 80vh;
-  background-image: url(img/400789-Linux-GNU-GNU_-_Linux-minimalism.jpg);
+  background-image: url(../../img/400789-Linux-GNU-GNU_-_Linux-minimalism.jpg);
   background-size: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -265,25 +265,25 @@ img {
 }
 
 .images-trips-1 {
-  background-image: url(img/linux-penguin-and-rainbow-background-imsv6hxt0e8zcl7m-3730406657.jpg);
+  background-image: url(../../img/linux-penguin-and-rainbow-background-imsv6hxt0e8zcl7m-3730406657.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .images-trips-2 {
-  background-image: url(img/1-4204059220.png);
+  background-image: url(../../img/1-4204059220.png);
   background-size: cover;
   background-position: center;
 }
 
 .images-trips-3 {
-  background-image: url(img/fedora-feat-5b9fe676c9e77c0050ce388c-2333270958.jpg);
+  background-image: url(../../img/fedora-feat-5b9fe676c9e77c0050ce388c-2333270958.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .images-trips-4 {
-  background-image: url(img/ubuntu-linux-minimal-4k-on-3840x2160-2398598343.jpg);
+  background-image: url(../../img/ubuntu-linux-minimal-4k-on-3840x2160-2398598343.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -299,25 +299,25 @@ img {
 }
 
 .images-trips-5 {
-  background-image: url(img/Kali-linux-872298623.jpg);
+  background-image: url(../../img/Kali-linux-872298623.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .images-trips-6 {
-  background-image: url(img/wp8843183-1041051902.jpg);
+  background-image: url(../../img/wp8843183-1041051902.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .images-trips-7 {
-  background-image: url(img/91488-2048748032.jpg);
+  background-image: url(../../img/91488-2048748032.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .images-trips-8 {
-  background-image: url(img/endeavourOS-astronaught-3246654328.jpg);
+  background-image: url(../../img/endeavourOS-astronaught-3246654328.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -597,5 +597,5 @@ img {
 }
 
 .linkservices {
-  color: var(--word-black);
+  color: royalblue;
 }
