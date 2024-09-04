@@ -47,7 +47,8 @@ button {
 .footer {
   margin: 10px;
   border-radius: 7px;
-  margin-top: 400px;
+  position: fixed;
+  bottom: 0;
 }
 .footer-wrapper {
   padding: 45px;
