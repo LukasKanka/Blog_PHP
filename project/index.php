@@ -44,6 +44,7 @@
         <li><p><a href="https://vscodium.com/" target="_blank"><i class="fa fa-vscodium"></i> VSCodium</a> - opensource alternativa k VSCode bez Microsoft telemetrie.</p></li>
         <li><p><a href="https://filezilla-project.org/" target="_blank"><i class="fa fa-filezilla"></i> FileZilla</a> - FTP klient který zapínám hned po startu pc jako první.</p></li>
         <li><p><a href="https://www.apachefriends.org/index.html" target="_blank"><i class="fa fa-xampp"></i> XAMPP</a> - vývojové prostředí pro PHP.</p></li>
+        <li><p><a href="https://netbeans.apache.org/front/main/index.html" terget="_blank"><i class="fa fa-netbeans"></i> NetBeans</a> - tuto stálici na poli IDE teprve testuji.</p></li>
     </ul>
 </body>
 
