@@ -46,6 +46,7 @@
         <li><p><a href="https://www.apachefriends.org/index.html" target="_blank"><i class="fa fa-xampp"></i> XAMPP</a> - vývojové prostředí pro PHP.</p></li>
         <li><p><a href="https://netbeans.apache.org/front/main/index.html" terget="_blank"><i class="fa fa-netbeans"></i> NetBeans</a> - tuto stálici na poli IDE teprve testuji.</p></li>
     </ul>
+    <p>Test FTP online Cloud IDE</p>
 </body>
 
 </html>
